@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
 body {
   padding-top: 33px;
@@ -13,7 +13,7 @@ body {
 nav {
   display: flex;
   font-size: 18px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Bebas Neue", cursive;
   font-weight: 400;
   background-color: #383637;
   text-transform: uppercase;
