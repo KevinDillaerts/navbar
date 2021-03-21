@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 body {
   padding-top: 33px;
 }
@@ -11,6 +13,8 @@ body {
 nav {
   display: flex;
   font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
   background-color: #383637;
   text-transform: uppercase;
   border-bottom: 2px solid #12304c;
@@ -34,7 +38,7 @@ nav ul a {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 12px;
+  padding: 12px 12px 10px 12px;
   background-color: #383637;
   margin-right: 1px;
   text-decoration: none;
